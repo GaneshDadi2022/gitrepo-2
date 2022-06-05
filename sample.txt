@@ -6,9 +6,6 @@ This is fifth line code
 This is sixth line code
 This is Seventh line code
 This is Eight line code
-<<<<<<< HEAD
 This is ninth line of code
-=======
 This is ninth line of code
 This is tenth line of code
->>>>>>> staging
